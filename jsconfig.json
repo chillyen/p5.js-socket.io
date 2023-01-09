@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "p5types/global.d.ts"
+, "Test_File/TestRandomColor.js", "Test_File/test.js"  ]
+}
